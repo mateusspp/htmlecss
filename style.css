@@ -6,6 +6,10 @@ body {
     width: 100%;
 }
 
+.principal{
+    background: white;
+}
+
 h1 {
     text-align: center; 
 }
@@ -20,6 +24,14 @@ p {
 
 em strong {
     color: #FF0000;
+}
+
+.beneficios{
+    background:white;
+}
+
+h2{
+    text-align: center;
 }
 
 .itens{
