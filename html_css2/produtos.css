@@ -45,10 +45,11 @@ nav a {
     border-color: black;
     border-width: 2px;
     border-style: solid;
+    border-radius: 15px;
 }
 
 .produtos h2 {
-    font-size: 30px;
+    font-size: 25px;
     font-weight: bold;
 }
 
