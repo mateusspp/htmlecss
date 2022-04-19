@@ -24,7 +24,7 @@ nav a {
     text-transform: uppercase;
     color: black;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 20px;
     text-decoration: none;
 }
 
@@ -53,17 +53,29 @@ nav a:hover {
     border-radius: 15px;
 }
 
+.produtos li:hover {
+    border-color: #c78cc7;
+}
+
+.produtos li:active {
+    border-color: red;
+}
+
+.produtos li:hover h2 {
+    font-size: 26px;
+}
+
 .produtos h2 {
     font-size: 25px;
     font-weight: bold;
 }
 
 .produtos-descricao {
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .produtos-preco {
-    font-size: 22px;
+    font-size: 18px;
     font-weight: bold;
     margin-top: 10px;
 }
